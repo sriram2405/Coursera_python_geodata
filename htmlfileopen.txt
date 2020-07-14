@@ -1,0 +1,2 @@
+import webbrowser
+webbrowser.open('where.html', new=2)
